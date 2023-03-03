@@ -1,0 +1,274 @@
+/*<div class="middle-container" style="
+    padding-right: 5‒;
+    padding-right: 20px;
+    border-top-width: 1px;
+    padding-left: 20px;
+    border-bottom-width: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-left-width: 10px;
+    border-right-width: 20px;
+    margin-right: 100px;
+    margin-top: 100px;
+    margin-left: 0px;
+    margin-bottom: 100px;
+">
+
+</div>*/
+.body{
+    width: 1500px;
+    height: 600px;
+}
+.top-container {
+
+position: relative;
+width: 750px;
+height: 706px;
+
+background-color: #FFFFFF;
+}
+
+.top-container-right {
+
+    position: relative;
+    width: 745px;
+    height: 0px;
+    
+    background-color: #FFFFFF;
+    left: 500px;
+    
+    top: -700px;
+    line-height: 0px ;
+      }
+    
+    .img-1 {
+        position: relative;
+        margin-top: -40px;
+        margin-left: 500px;
+        width: 500px;
+    }
+    
+    .img-2 {
+        
+        margin-top: -53rem;
+       position: absolute;
+        padding-left: 500px;
+        width: 500px;
+        
+    }
+    .img-3 {
+        position: absolute;
+        margin-top: -45rem;
+        padding-left: 500px;
+        width: 450px;
+    }
+    .img-4 {
+        position: absolute;
+        width: 450px;
+        height: 414px;
+        left: 350px;
+        top: 130px;
+
+}
+.heading-1{
+position: absolute;
+width: 458px;
+height: 49px;
+left: 105px;
+top: 117px;
+font-family: cursive;
+font-style: normal;
+font-weight: 600;
+font-size: 37px;
+line-height: 52px;
+text-align: center;
+
+color: #68D1FF;
+}
+
+
+.login {
+
+position: absolute;
+width: 90px;
+height: 45px;
+left: 105px;
+top: 250px;
+
+font-family: cursive;
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 10px;
+/* identical to box height */
+
+text-align: center;
+
+color: #736F6F;
+
+}
+.form-label-1 {
+
+box-sizing: border-box;
+
+position: absolute;
+width: 400px;
+height: 40px;
+left: 108px;
+top: 330px;
+
+border: 1px solid rgba(115, 111, 111, 0.5);
+}
+
+.form-label-2 {
+    box-sizing: border-box;
+
+position: absolute;
+width: 400px;
+height: 40px;
+left: 108px;
+top: 419px;
+
+border: 1px solid rgba(115, 111, 111, 0.5);
+}
+
+.form-label-3 {
+position: absolute;
+width: 400px;
+height: 49px;
+left: 108px;
+top: 508px;
+
+
+background: #68D1FF;
+box-shadow: 0px 4px 7px rgba(0, 0, 0, 0.09);
+}
+
+.email-align {
+    
+    position: absolute;
+    width: 213px;
+    height: 27px;
+    left: 20px;
+    top: 11px;
+    
+    font-family: cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 25px;
+    display: flex;
+    align-items: center;
+    
+    color: #736F6F;
+    
+}
+
+.email-align-1 {
+    position: absolute;
+    width: 82px;
+    height: 25px;
+    left: 20px;
+    top: 10px;
+    
+    font-family: cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: flex-end;
+    
+    color: #888888;
+    padding-left: 20px;
+}
+
+.email-align-2 {
+    position: absolute;
+    width: 139px;
+    height: 25px;
+    left: 220px;
+    top: 10px;
+    
+    font-family: cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    text-align: right;
+    
+    color: #0085FF;
+    
+
+}
+
+.login-align-2 {
+    position: absolute;
+    width: 59px;
+    height: 25px;
+    left: 173px;
+    top: 13px;
+    
+    font-family: cursive;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: flex-end;
+    
+    color: #FFFFFF;
+    
+
+}
+.h3-1 {
+    position: absolute;
+    width: 234px;
+    height: 25px;
+    left: 191px;
+    top: 565px;
+    
+    font-family: cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+    /* identical to box height */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #000000;
+      
+}
+.h3-2 {
+
+   
+position: absolute;
+width: 234px;
+height: 0px;
+left: 300px;
+top: 577px;
+
+
+font-family: cursive;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 25px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: right;
+
+color: #0085FF;
+ 
+}
